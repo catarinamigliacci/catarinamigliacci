@@ -1,3 +1,5 @@
+## Oii, meu nome é Catarina, mas pode chamar de Cat 
+
 <div align="center">
   <a href="https://github.com/catarinamigliacci">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=catarinamigliacci&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -8,7 +10,7 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <!--<img align="right" alt="pic" height="110" style="border-radius:50px;" src=https://picrew.me/image_maker/338224/complete?cd=HW0lT3kWyo width=676&height=676">-->
+  <img align="right" alt="pic" height="110" style="border-radius:50px;" src="https://media.giphy.com/media/88YlfHmfgP5CJd2z2U/giphy.gif" width=676&height=676">-->
 </div>
   
   ##
