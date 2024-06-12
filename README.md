@@ -13,7 +13,6 @@
   <img align="center" alt="Angular" height ="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   <img align="center" alt="dotnet" height ="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
   <img align="center" alt="figma" height ="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-  <img align="right" alt="pic" height="110" style="border-radius:50px;" src="https://media.giphy.com/media/88YlfHmfgP5CJd2z2U/giphy.gif" width=150 height=500">
 </div>
   
   ##
